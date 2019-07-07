@@ -17,3 +17,6 @@ El primer espacio antes del "/" será para el singular y el segundo espacio ser�
 - A para atacante.
 - V para víctima.
 - D para muertos.
+
+
+Hay una rama distinta para cada archivo, así si algo falla no perdemos mucho progreso.
