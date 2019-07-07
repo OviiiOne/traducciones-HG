@@ -20,3 +20,5 @@ El primer espacio antes del "/" será para el singular y el segundo espacio ser�
 
 
 Hay una rama distinta para cada archivo, así si algo falla no perdemos mucho progreso.
+
+Hace un fork y mandad los cambios.
