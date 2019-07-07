@@ -6,37 +6,37 @@
       "victim": { "count": "-1", "outcome": "dies" }
     },
     {
-      "message": "{victim} trip[Vs|] and get[Vs|] impaled by the cornucopia!",
+      "message": "¡{victim} se [Vtropieza|tropiezan] y se empala[V|n] en la cornucopia!",
       "attacker": { "count": "0", "outcome": "nothing"},
       "victim": { "count": "-1", "outcome": "dies" }
     },
     {
-      "message": "{victim} hides in the cornucopia.",
+      "message": "{victim} se esconde en la cornucopia.",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} finds a grenade in the cornucopia.",
+      "message": "{attacker} encuentra una granada en la cornucopia.",
       "attacker": { "count": "1", "outcome": "nothing", "weapon": { "name": "grenade", "count": 1 } },
       "victim": { "count": "0", "outcome": "nothing" }
     },
     {
-      "message": "{victim} grabs a gun with 6 shots in it.",
+      "message": "{victim} coge una pistola con 6 balas.",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing", "weapon": {"name": "gun", "count": 6 } }
     },
     {
-      "message": "{victim} grabs a gun that may or may not work!",
+      "message": "¡{victim} coge una pistola que podría funcionar (o no)!",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing", "weapon": {"name": "gun", "count": 6 } }
     },
     {
-      "message": "{victim} grabs a gun that may or may not work!",
+      "message": "¡{victim} coge una pistola que podría funcionar (o no)!",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{victim} grabs a gun that definitely does not work.",
+      "message": "{victim} agarra una pistola que no funciona.",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
