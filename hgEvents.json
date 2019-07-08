@@ -41,42 +41,42 @@
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, and kills {victim} with it!",
+      "message": "¡{attacker} encuentra una pistola con una bala en la recámara, y mata a {victim} con ella!",
       "attacker": { "count": "1", "outcome": "nothing", "killer": true },
       "victim": { "count": "1", "outcome": "dies" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, but misses {victim} with it!",
+      "message": "¡{attacker} encuentra una pistola con una bala en la recámara, pero falla el tiro a {victim}!",
       "attacker": { "count": "1", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} finds a gun with one bullet, and {victim} both die somehow!",
+      "message": "¡{attacker} encuentra una pistola con una bala en la recámara, y mata a {victim}, no tengo ni idea de cómo!",
       "attacker": { "count": "1", "outcome": "nothing", "killer": true },
       "victim": { "count": "2", "outcome": "dies" }
     },
     {
-      "message": "{victim} end[Vs|] their own [Vlife|lives] with [Va |]butter [Vknife|knives]!",
+      "message": "¡{victim} [Vacaba|acaban] con [Vsu vida|sus vidas] con un cuchillo!",
       "attacker": { "count": "0", "outcome": "nothing" },
       "victim": { "count": "-1", "outcome": "dies" }
     },
     {
-      "message": "{attacker} grabs a shovel.",
+      "message": "{attacker} encuentra una pala.",
       "attacker": { "count": "1", "outcome": "nothing", "weapon": { "name": "shovel", "count": "1" } },
       "victim": { "count": "0", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} grab[As|] a backpack and retreat[As|].",
+      "message": "{attacker} [Acoge|cogen] una mochila y se [Aretira|retiran].",
       "attacker": { "count": "-1", "outcome": "nothing" },
       "victim": { "count": "0", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} and {victim} fight for a bag. {victim} gives up and runs away.",
+      "message": "{attacker} y {victim} luchan por una mochila. {victim} se rinde y huye.",
       "attacker": { "count": "1", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
     {
-      "message": "{attacker} and {victim} fight for a bag. {attacker} gives up and runs away.",
+      "message": "{attacker} y {victim} luchan por una mochila. {attacker} se rinde y huye.",
       "attacker": { "count": "1", "outcome": "nothing" },
       "victim": { "count": "1", "outcome": "nothing" }
     },
