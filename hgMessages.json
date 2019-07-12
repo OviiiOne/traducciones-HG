@@ -1,56 +1,62 @@
 {
   "dayStart": [
-    "Day {} has begun!",
-    "The sun rises on day {}.",
-    "Prepare for day {}, it is here!",
-    "Day {} is upon us!",
-    "Light has returned to the arena. Day {} has begun.",
-    "Good morning! Try to survive day {}.",
-    "Day {}. Another day, another chance to die.",
-    "#{}... has begun...",
-    "{} is the number of today. Today is day {}.",
-    "I like the number {}, it means somebody will die today.",
-    "Today is day {}.",
-    "Rise and shine! It's day {}!",
-    "Beware, day {}..."
+    "¡El día {} ha comenzado!",
+    "El sol vuelve a brillar en el día {}.",
+    "¡Preparaos para el día {}, ya está aquí!",
+    "¡El día {} se cierne sobre nosotros!",
+    "La luz vuelve a iluminar la arena. El día {} ha comenzado.",
+    "¡Buenos días! Tratad de sobrevivir al  día {}.",
+    "Día {}. Un día nuevo, una nueva oportunidad de morir.",
+    "#{}... ha comenzado...",
+    "{} es el número de hoy. Hoy es el día {}.",
+    "Me gusta el número {}, significa que  alguien va a morir hoy.",
+    "Hoy es el día {}.",
+    "¡Los pájaros cantan! Es el día {}.",
+    "Cuidado, hoy es es el día {}..."
+    "¡Odio los lunes! Pero al menos no son como hoy, día {}."
   ],
   "dayEnd": [
-    "Day {day} has ended with {alive} alive!",
-    "{alive} have survived to see the end of day {day}.",
-    "{alive} people survived day {day}.",
-    "Day {day} was kind to only {alive} people.",
-    "Day {day} sets its sun on {alive} people.",
-    "Only {alive} see the end of day {day}.",
-    "{alive} survived day {day}'s events.",
-    "The sun of day {day} has set on the {alive} remaining."
+    "¡El día {day} ha terminado con {alive} tributos con vida!",
+    "{alive} personas han sobrevivido para ver el atardecer del día {day}.",
+    "{alive} tributos sobrevivieron el día{day}.",
+    "El día {day} fue amable para tan solo {alive} personas.",
+    "Llega el atardecer del día {day} para solo {alive} personas.",
+    "Solo {alive} llegan hasta el final del día {day}.",
+    "{alive} han sobrevivido a lo sucedido en el día {day}.",
+    "Solo {alive} personas ven salir la luna del día {day}."
+    "{alive} personas sobreviviero al final del día {day}... Siguen siendo demasiadas..."
   ],
   "gameStart": [
-    "Let the games begin!"
+    "¡Que comiencen los Juegos del Hambre!"
+    "Que la fuerza os acomp... espera, eso es de otra cosa."
+    "¿Esto está encendido?"
+    "Ya podéis mataros y todo eso..."
   ],
   "gameEnd": [
     "_unused"
   ],
   "bloodbathStart": [
-    "The bloodbath has begun!",
-    "THE BLOOD IS EVERYWHERE!",
-    "Now the fun begins...",
-    "The blood is coming...",
-    "Who wants blood?",
-    "I've prepared a bath for you. A bloodbath!",
-    "The dirt will be soaked in blood.",
-    "This is only the begininng...",
-    "Beware, blood will be spilt.",
-    "Beware, blood will be spilled.",
-    "This game will have no gods or kings. Only man."
+    "¡Ha empezado el baño de sangre!",
+    "¡SANGRE, SANGRE POR TODAS PARTES!",
+    "Ahora empieza lo bueno...",
+    "La sangre se acerca...",
+    "¿Quién quiere sangre?",
+    "Os he preparado un baño... ¡un baño de sangre!",
+    "La tierra quedará impregnada de sangre.",
+    "Esto solo acaba de empezar...",
+    "Cuidado, se va a verter sangre.",
+    "¿Alguien necesita una transfusión de sangre?",
+    "Si eres un vampiro... seguramente disfrutes con esto."
   ],
   "bloodbathEnd": [
-    "Bloodbath has ended.",
-    "Now, the game has begun.",
-    "Blood has been spilt.",
-    "The day has only just begun.",
-    "The bloodbath may have ended, but the games have only just begun!",
-    "The end of the bloodbath only marks a new beginning.",
-    "The end is still nowhere in sight."
+    "El baño de sangre ha terminado.",
+    "Ahora, ahora si que comienzan los juegos.",
+    "La sangre ya se ha vertido.",
+    "El día acaba de comenzar.",
+    "El baño de sangre habrá acabado, ¡pero los juegos no han hecho más que empezar!",
+    "El final del baño de sangre solo marca un nuevo comienzo.",
+    "Desde aquí es imposible saber cuando acabará."
+    "Limpieza a pasillo 3"
   ],
   "eventStart": [
     "The game makers have decided to make the game a little more interesting...",
